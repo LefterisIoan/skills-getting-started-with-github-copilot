@@ -1,3 +1,4 @@
+
 """
 High School Management System API
 
@@ -77,6 +78,7 @@ activities = {
         "participants": ["isabella@mergington.edu"]
     }
 }
+
 
 
 @app.get("/")
